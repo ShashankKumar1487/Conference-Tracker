@@ -1,0 +1,5 @@
+C:\Users\Shashank\documents\visual studio 2010\Projects\Conference Track Management\Conference Track Management\bin\Debug\Conference Track Management.exe
+C:\Users\Shashank\documents\visual studio 2010\Projects\Conference Track Management\Conference Track Management\bin\Debug\Conference Track Management.pdb
+C:\Users\Shashank\documents\visual studio 2010\Projects\Conference Track Management\Conference Track Management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shashank\documents\visual studio 2010\Projects\Conference Track Management\Conference Track Management\obj\x86\Debug\Conference Track Management.exe
+C:\Users\Shashank\documents\visual studio 2010\Projects\Conference Track Management\Conference Track Management\obj\x86\Debug\Conference Track Management.pdb
